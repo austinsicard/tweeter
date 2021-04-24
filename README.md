@@ -10,11 +10,11 @@ Main Page Screenshot (Regular View)
 Main Page Screenshot (Shorten Width View)
 !["Screenshot of URLs page for a user with saved URLs"](https://github.com/austinsicard/tweeter/blob/master/public/images/main-page-short.png)
 
-GIF of new Tweet being posted and Icon hover (Changes Colours)
-!["Screenshot of URLs page for a user with saved URLs"]
+GIF of new Tweet being posted
+!["Screenshot of URLs page for a user with saved URLs"](https://github.com/austinsicard/tweeter/blob/master/public/images/new-tweet.gif)
 
 GIF of Error Messages
-!["Screenshot of URLs page for a user with saved URLs"]
+!["Screenshot of URLs page for a user with saved URLs"]()
 
 GIF of Icons hover (Changes Colours)
 !["Screenshot of URLs page for a user with saved URLs"]
