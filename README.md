@@ -14,8 +14,8 @@ GIF of new Tweet being posted
 !["Screenshot of GIF of new Tweet being posted"](https://github.com/austinsicard/tweeter/blob/master/public/images/new-tweet.gif)
 
 GIF of Error Messages
-!["Screenshot of GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/not-enough-chars.gif)
-!["Screenshot of GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/too-many-error.gif)
+!["GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/not-enough-chars.gif)
+!["GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/too-many-error.gif)
 
 
 ## Getting Started
@@ -29,3 +29,11 @@ GIF of Error Messages
 
 - Express
 - Node 5.10.x or above
+
+## For Fun Notes
+
+The tweeter project being my second website made with LHL was extremely challenging and fun. The hardest parts were trying to get the syntax all down pat for AJAX as well as managing to tie everything together. Although we we're only in charge of the front-end since the back end was provided, this pose as an extra challenge learning to style correctly with Flexbox. 
+
+This project put my knowledge and understanding of everthing to the test. I really noticed myself struggling to complete this project to the full requirements. The best part of this project was the fact that I was able to find solutions and fixes to a lot of my errors by using google. I drastically improved my "google" skills you could say, as in actually knowing what I need to look up to get the results I needed. 
+
+All in all this project wouldn't have been possible without all the amazing help from my classmates and mentors. They went to extreme lengths to make sure my understanding was there and to back-track on anything I was extremely confused about. I can confidently say from the beginning of this project to the end I have learned an enormous amount of information regarding front end server related things.
