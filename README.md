@@ -5,20 +5,17 @@ Tweeter is a simple, single-page Twitter clone. It is essentially a mini version
 ## GIFs/Screenshots of Final Product
 
 Main Page Screenshot (Regular View)
-!["Screenshot of URLs page for a user with saved URLs"](https://github.com/austinsicard/tweeter/blob/master/public/images/main-page-regular.png)
+!["Screenshot of Main Page Screenshot (Regular View)"](https://github.com/austinsicard/tweeter/blob/master/public/images/main-page-regular.png)
 
 Main Page Screenshot (Shorten Width View)
-!["Screenshot of URLs page for a user with saved URLs"](https://github.com/austinsicard/tweeter/blob/master/public/images/main-page-short.png)
+!["Screenshot of Main Page Screenshot (Shorten Width View)"](https://github.com/austinsicard/tweeter/blob/master/public/images/main-page-short.png)
 
 GIF of new Tweet being posted
-!["Screenshot of URLs page for a user with saved URLs"](https://github.com/austinsicard/tweeter/blob/master/public/images/new-tweet.gif)
+!["Screenshot of GIF of new Tweet being posted"](https://github.com/austinsicard/tweeter/blob/master/public/images/new-tweet.gif)
 
 GIF of Error Messages
-!["Screenshot of URLs page for a user with saved URLs"]()
-
-GIF of Icons hover (Changes Colours)
-!["Screenshot of URLs page for a user with saved URLs"]
-
+!["Screenshot of GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/not-enough-chars.gif)
+!["Screenshot of GIF of Error Messages"](https://github.com/austinsicard/tweeter/blob/master/public/images/too-many-error.gif)
 
 
 ## Getting Started
