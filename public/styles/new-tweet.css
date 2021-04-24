@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+form footer {
+  display: flex;
+  justify-content: space-between;
+}
+#tweet-text {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid black;
+  margin-bottom: 1em;
+}
+/* .char-limit {
+  color:red;
+} */

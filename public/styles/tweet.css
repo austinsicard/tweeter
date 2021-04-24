@@ -1,0 +1,31 @@
+/* Changes the color when hovering over icons */
+.tweet-list-buttons .fas:hover {
+  color: yellow;
+}
+.tweet {
+  padding: 5px;
+  margin-top: 0.5em;
+  border: 2px solid black;
+}
+.tweet-list-footer {
+  display: flex;
+  justify-content: space-between;
+}
+/* Box for each new tweet */
+article.tweet h3 {
+  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.tweet-handle {
+  color: lightgray;
+}
+/* Line Seperator between tweet message and Date */
+hr {
+  height: 2px;
+  background-color: black;
+}
+.tweets-list {
+  display: flex;
+  flex-direction: column-reverse;
+}

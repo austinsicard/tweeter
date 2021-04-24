@@ -1,0 +1,61 @@
+nav {
+  height: 120px;
+  width: 100%;
+  background-color: #4056A1;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  position: fixed;
+  top: 0;
+}
+.left-box {
+  font-family: "Bungee";
+}
+.right-box {
+  /* border: 1px solid white; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+nav i {
+  color: red;
+  animation: updown 2s ease infinite;
+}
+.entire-screen {
+    color: #545149;
+    background-color: #f4f1ec;
+    font-size: 24px;
+    font-family: 'Source Sans Pro';
+    display: flex;
+    margin-top: 4em;
+    justify-content: space-between;
+}
+
+@keyframes updown {
+  0% {
+    transform: translateY(-65%);
+  }
+  50% {
+    transform: translateY(65%);
+  }
+  100%{
+    transform: translateY(-65%);
+  }
+}
+/* 
+.nav-content-container {
+  display: flex;
+  margin-left: 1.5em; */
+
+/* .nav-write-a-new-tweet { */
+  /* margin-left: auto; */
+  /* margin-right: 1.5em; */
+  /* background-color: red; */
+/* } */
+/* .nav-content-container span:nth-child(2) { */
+  /* background-color: red; */
+/* } */
